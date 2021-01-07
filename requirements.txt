@@ -31,7 +31,7 @@ keyrings.alt==3.0
 language-selector==0.1
 lazy-object-proxy==1.4.3
 lightdm-gtk-greeter-settings==1.2.2
-lxml==4.2.1
+lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 menulibre==2.2.0
